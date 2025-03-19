@@ -1,6 +1,6 @@
 # STELLA-1.1-NASA-Landsat-Science-Prototype
 
-I developed two prototypes of STELLA (Science and Technology Education for Land/Life Assessment), a portable handheld remote sensing device, as part of the NASA Landsat Initiative. These prototypes incorporate cost-effective multi-spectral sensors housed in a 3D-printed design, enabling real-time environmental monitoring and water quality assessment.
+I developed two prototypes of [STELLA]((STELLA-Portable-Remote-Sensing-for-Water-Quality-Monitoring/Images)) (Science and Technology Education for Land/Life Assessment), a portable handheld remote sensing device, as part of the NASA Landsat Initiative. These prototypes incorporate cost-effective multi-spectral sensors housed in a 3D-printed design, enabling real-time environmental monitoring and water quality assessment.
 
 <h2>Purpose & Applications</h2>
 STELLA is an open-source, low-cost spectrometer designed to enhance remote sensing education and environmental monitoring. It integrates VIS-NIR spectroscopy and chemical analysis capabilities to measure key water parameters, including:
